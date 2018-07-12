@@ -3,5 +3,5 @@ Git is free software distribute under the GPL
 Git has a mutable index called stage
 Git tracks changes of files
 Create a new branch is quick
-Lyp create a new branch ,name is dev and simple
+Lyp create a new branch ,name is dev & simple
 
