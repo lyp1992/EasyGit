@@ -5,5 +5,5 @@ Git tracks changes of files
 Create a new branch is quick
 Lyp create a new branch ,name is dev and simple
 Add merge
-
+修复了bug
 
